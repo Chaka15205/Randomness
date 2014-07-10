@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Randomness",
+  "name": "Randomness",
+  "description": "Tons of random things!",
+  "version": "1.7.10-14w28a",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Christophernjsp"
+  ],
+  "credits": "To all patrons, Contributers and Christophernjsp",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
